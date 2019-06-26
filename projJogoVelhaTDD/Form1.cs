@@ -15,6 +15,9 @@ namespace projJogoVelhaTDD
         public Form1()
         {
             InitializeComponent();
+
+            TabuleiroTest tt = new TabuleiroTest();
+            tt.Test();
         }
     }
 }
