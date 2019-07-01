@@ -8,6 +8,7 @@ namespace projJogoVelhaTDD
 {
     public enum Jogador
     {
+        EMPATE = 0,
         X = 1,
         O = 2
     }
